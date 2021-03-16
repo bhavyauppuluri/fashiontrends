@@ -1,0 +1,33 @@
+.card img{
+  height: 400px;
+  margin-top: 10px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  float: left;
+  margin-left: 100px;
+  
+  
+}
+body { 
+  background-image: url("https://eskipaper.com/images/fashion-background-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom right; 
+  background-size: 1400px 630px;
+
+}
+.p1,h2 {
+  animation: color-change 2s infinite;
+}
+
+@keyframes color-change {
+  0% { color: red; }
+  50% { color: blue; }
+  100% { color:rebeccapurple; }
+}
+

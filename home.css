@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/64/53/KvgwUW.jpg");
+}
+
+p{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+p {
+    animation: color-change 2s infinite;
+  }
+  
+  @keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color:rebeccapurple; }
+  }
+  .card
+  {
+      margin-top: 40px;
+  }
+ 

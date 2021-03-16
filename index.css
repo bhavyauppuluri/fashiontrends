@@ -1,0 +1,57 @@
+*
+{
+  margin: 0px;
+  padding:0px;
+}
+header
+{
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i0.wp.com/startupbizglobal.com/wp-content/uploads/Clothing-Boutique-Business-Plan.jpg?fit=1000%2C563&ssl=1");
+  height: 800px;
+  background-size: cover;
+  background-position: center;
+}
+.nav-menu
+{
+  float:right;
+  list-style: none;
+  margin-top: 30px;
+}
+.nav-menu li{
+  display:inline-block;
+
+}
+.nav-menu li a 
+{
+  color:wheat;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+li a.active{
+  background-color: slateblue;
+  border-radius: 10px;
+  
+}
+.nav-menu li a:hover{
+  border: 1px solid grey;
+  background-color: indigo;
+  border-radius: 10px;
+}
+.six
+{
+  position:absolute;
+  width:1200px;
+  margin-left: 0;
+  margin-top: 0;
+  color:skyblue;
+    font-size:50px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 275px;
+}
+
+
+ 
+
+    

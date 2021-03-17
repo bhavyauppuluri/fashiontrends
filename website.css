@@ -50,6 +50,9 @@ li a.active{
     text-align: center;
     margin-top: 275px;
 }
+[class*="col-"] {
+  width: 100%;
+}
 
  
 

@@ -50,14 +50,6 @@ li a.active{
     text-align: center;
     margin-top: 275px;
 }
-@-o-viewport{
-  zoom:3.0;
-  width:extend-to-zoom;
-}
-@-ms-viewport{
-  width:extend-to-zoom;
-  zoom:3.0;
-}
 
  
 
